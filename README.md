@@ -1,4 +1,4 @@
-# Quadrupedal-Walkign-Robot
+# Quadrupedal-Walking-Robot
 Quadrupedal walking robot that is able to move statically stably. The robot is equipped with ultrasonic sensors of distance, which allow detection of obstacles and limit switches indispensible to ground sensing. Designed control system is based on microcontroller ATmega16A. Software in `C++`.
 
 ## Used Components
